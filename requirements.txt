@@ -1,0 +1,7 @@
+fastapi==0.116.0
+uvicorn==0.35.0
+openai==1.94.0
+langgraph==0.5.2
+langchain-core==0.3.68
+pydantic==2.11.7
+python-multipart==0.0.9 
